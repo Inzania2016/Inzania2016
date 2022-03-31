@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Inzania2016
 - 👀 I’m interested in programming, metal, and games.
-- 🌱 I’m currently learning how now to cry when dying in Elden Ring.
+- 🌱 I’m currently learning how not to cry when dying in Elden Ring.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me - use GitHub.
 
